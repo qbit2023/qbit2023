@@ -3,7 +3,7 @@
   
   
 
-### <div align="center">I'm Rahul, a full-time full-stack freelance developer 👨‍💻</div>  
+### <div align="center">I'm Rahul, a full-time full-stack developer 👨‍💻</div>  
   
 
 - 🌱 I’m currently learning blockchain and rust  
